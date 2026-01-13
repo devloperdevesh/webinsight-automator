@@ -240,3 +240,14 @@ I actively build production-grade projects and deploy them publicly to demonstra
 ---
 
 ✅ **Status:** Production Ready | Interview Ready | Resume Safe
+
+
+
+# WebInsight Automator
+
+© 2026 Devesh Chauhan  
+All rights reserved.
+
+This is a demo version of the project.  
+Full implementation available on request.
+
